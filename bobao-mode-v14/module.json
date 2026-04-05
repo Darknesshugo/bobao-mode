@@ -1,0 +1,34 @@
+{
+  "id": "bobao-mode",
+  "title": "Bobão Mode",
+  "description": "Adds a Bobão toggle next to each player in the player list so the GM can mark absences.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "OpenAI"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [],
+    "requires": []
+  },
+  "esmodules": [
+    "scripts/bobao-mode.js"
+  ],
+  "styles": [
+    "styles/bobao-mode.css"
+  ],
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-BR.json"
+    }
+  ],
+  "manifest": "",
+  "download": ""
+}

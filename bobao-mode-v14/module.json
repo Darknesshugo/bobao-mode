@@ -29,6 +29,6 @@
       "path": "lang/pt-BR.json"
     }
   ],
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/Darknesshugo/bobao-mode/main/bobao-mode-v14/module.json",
   "download": "https://github.com/Darknesshugo/bobao-mode/releases/download/v1.0.0/bobao-mode-v14.zip"
 }
